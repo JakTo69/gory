@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<html>
+<head>
+<meta charset=utf-8>
+<title>przykład 8.1 str 79
+</head>
+<body>
+<img src="C:\Users\macie\OneDrive\Pulpit\ALL\góryaf.jpg"
+<br>
+<img src="C:\Users\macie\OneDrive\Pulpit\ALL\góryaf.jpg" width="200" height="200">
+</body>
+</html>
